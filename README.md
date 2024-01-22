@@ -5,7 +5,7 @@ It is important for organizations and the people working there to focus on their
 
 The project is designed in the form of question answer where the employees have to answer 10-15 questions and based on that an analysis is generated in the form of pie chart showing the composition of these 4 problems, further an anlysis of depression and anxiety is done using fuzzy logic to find out the severity of these two conditions. 
 
-**TECHMOLOGY USED**
+**TECHNOLOGY USED**
 
 This project depicts the concept of machine learning and deep learning techniques, initally the model used was **linear regression** which did not provide very accurate results and then **BERT** model was picked to enhance the accuracy and provide better results. 
 
